@@ -1,0 +1,199 @@
+university_short_name,education_group,code,name
+BDU,I,050101,Azərbaycan dili müəllimliyi
+BDU,I,050102,Azərbaycan dili və ədəbiyyatı müəllimliyi
+BDU,I,050103,İbtidai sinif müəllimliyi
+BDU,I,050104,Tarix müəllimliyi
+BDU,I,050105,Coğrafiya müəllimliyi
+BDU,I,050106,Psixologiya müəllimliyi
+BDU,I,060101,Tarix
+BDU,I,060102,Fəlsəfə
+BDU,I,060103,Filologiya (Azərbaycan dili)
+BDU,I,060104,Filologiya (Rus dili)
+BDU,I,060105,Jurnalistika
+BDU,I,060106,Hüquqşünaslıq
+BDU,I,060107,Politologiya
+BDU,I,060108,Sosiologiya
+BDU,I,060109,Psixologiya
+BDU,I,060110,Dövlət idarəçiliyi
+BDU,II,050201,Riyaziyyat müəllimliyi
+BDU,II,050202,Fizika müəllimliyi
+BDU,II,050203,Kimya müəllimliyi
+BDU,II,050204,Biologiya müəllimliyi
+BDU,II,050205,İnformatika müəllimliyi
+BDU,II,060201,Riyaziyyat
+BDU,II,060202,Fizika
+BDU,II,060203,Kimya
+BDU,II,060204,Biologiya
+BDU,II,060205,Ekologiya
+BDU,II,060206,Mexanika
+BDU,II,060207,İnformatika
+BDU,II,060208,Coğrafiya
+BDU,II,060209,Geologiya
+BDU,II,060210,Astrofizika
+BDU,III,050301,İngilis dili müəllimliyi
+BDU,III,050302,Rus dili müəllimliyi
+BDU,III,050303,Fransız dili müəllimliyi
+BDU,III,060301,Şərqşünaslıq
+BDU,III,060302,Beynəlxalq münasibətlər
+AzTU,I,040101,İqtisadiyyat (texniki)
+AzTU,II,080101,Kompüter mühəndisliyi
+AzTU,II,080102,Elektrik mühəndisliyi
+AzTU,II,080103,Elektronika mühəndisliyi
+AzTU,II,080104,Maşın mühəndisliyi
+AzTU,II,080105,Kimya mühəndisliyi
+AzTU,II,080106,İnşaat mühəndisliyi
+AzTU,II,080107,Sənaye mühəndisliyi
+AzTU,II,080108,Metalurgiya mühəndisliyi
+AzTU,II,080109,Neft avadanlığı mühəndisliyi
+AzTU,II,080110,Ekologiya mühəndisliyi
+AzTU,II,080111,Biotexnologiya
+AzTU,II,080112,Texniki fizika
+AzTU,II,080113,Materialşünaslıq
+AzTU,II,080114,Mühəndis ekologiyası
+AzTU,II,080115,Telekommunikasiya
+AzTU,II,080116,İnformasiya sistemləri
+UNEC,I,040101,İqtisadiyyat
+UNEC,I,040102,Menedcment
+UNEC,I,040103,Marketinq
+UNEC,I,040104,Mühasibat uçotu və audit
+UNEC,I,040105,Maliyyə
+UNEC,I,040106,Biznesin idarə edilməsi
+UNEC,I,040107,Turizm menecmenti
+UNEC,I,040108,Dövlət idarəçiliyi
+UNEC,I,040109,Statistika
+UNEC,I,040110,Vergi
+UNEC,III,040301,Beynəlxalq iqtisadi münasibətlər
+UNEC,III,040302,Dünya iqtisadiyyatı
+ATU,II,070101,Müalicə işi
+ATU,II,070102,Stomatologiya
+ATU,II,070103,Əczaçılıq
+ATU,II,070104,Pediatriya
+ATU,II,070105,Tibbi-profilaktika işi
+ATU,II,070106,Tibb işi (Hərbi)
+ATU,II,070107,Tibb biofizikası
+ATU,II,070108,Tibb biokimyası
+ADNSU,II,080201,Neft-mina işi
+ADNSU,II,080202,Neft və qaz yataqlarının işlənməsi
+ADNSU,II,080203,Neft-qaz quyularının qazılması
+ADNSU,II,080204,Neft emalı
+ADNSU,II,080205,Kimya texnologiyası
+ADNSU,II,080206,Hasilat texnologiyası
+ADNSU,II,080207,Maşın mühəndisliyi
+ADNSU,II,080208,Elektrik mühəndisliyi
+ADNSU,II,080209,İnformasiya texnologiyaları
+ADNSU,II,080210,Ekologiya və ətraf mühitin mühafizəsi
+ADNSU,II,080211,Geofizika
+AMİU,II,080301,Memarlıq
+AMİU,II,080302,İnşaat mühəndisliyi
+AMİU,II,080303,Şəhər salma
+AMİU,II,080304,Daşınmaz əmlak iqtisadiyyatı
+AMİU,II,080305,İçməli su təchizatı
+AMİU,II,080306,Torpaq tənzimləməsi
+AMİU,II,080307,Geodeziya
+AMİU,II,080308,Dəmir yolu mühəndisliyi
+ADPU,I,050101,Azərbaycan dili müəllimliyi
+ADPU,I,050103,İbtidai sinif müəllimliyi
+ADPU,I,050104,Tarix müəllimliyi
+ADPU,I,050105,Coğrafiya müəllimliyi
+ADPU,I,050106,Məktəbəqədər təhsil
+ADPU,I,050107,Sosial pedaqogika
+ADPU,I,050108,Xüsusi pedaqogika (defektologiya)
+ADPU,I,050109,Psixologiya
+ADPU,II,050201,Riyaziyyat müəllimliyi
+ADPU,II,050202,Fizika müəllimliyi
+ADPU,II,050203,Kimya müəllimliyi
+ADPU,II,050204,Biologiya müəllimliyi
+ADPU,II,050205,İnformatika müəllimliyi
+ADPU,II,050206,Texnologiya müəllimliyi
+ADU,I,060101,Filologiya (Azərbaycan dili)
+ADU,I,060102,Filologiya (Rus dili)
+ADU,III,050301,İngilis dili müəllimliyi
+ADU,III,050302,Rus dili müəllimliyi
+ADU,III,050303,Fransız dili müəllimliyi
+ADU,III,050304,Alman dili müəllimliyi
+ADU,III,050305,Türk dili müəllimliyi
+ADU,III,050306,Ərəb dili müəllimliyi
+ADU,III,050307,Çin dili müəllimliyi
+ADU,III,050308,Şərq dilləri müəllimliyi (Farsca)
+ADU,III,060301,Beynəlxalq münasibətlər
+ADU,III,060302,Tərcümə
+ADBTİA,IV,100101,Bədən tərbiyəsi müəllimliyi
+ADBTİA,IV,100102,İdman (Futbol)
+ADBTİA,IV,100103,İdman (Güləş)
+ADBTİA,IV,100104,İdman (Boks)
+ADBTİA,IV,100105,İdman (Gimnastika)
+ADBTİA,IV,100106,İdman (Üzgüçülük)
+ADBTİA,IV,100107,İdman (Atıcılıq)
+ADBTİA,IV,100108,İdman menecmenti
+ADMİU,IV,100201,Rəssamlıq müəllimliyi
+ADMİU,IV,100202,Heykəltaraşlıq
+ADMİU,IV,100203,Dizayn
+ADMİU,IV,100204,Xoreoqrafiya
+ADMİU,IV,100205,Teatr rejissurası
+ADMİU,IV,100206,Kütləvi tədbirlər rejissurası
+ADMİU,IV,100207,Kitabxana-informasiya fəaliyyəti
+ADMİU,IV,100208,Sosial-mədəni fəaliyyət
+BMA,IV,100301,Musiqi müəllimliyi
+BMA,IV,100302,Fortepiano ixtisası
+BMA,IV,100303,Skripka ixtisası
+BMA,IV,100304,Ud ixtisası
+BMA,IV,100305,Vokal sənəti
+BMA,IV,100306,Dirijorluq
+BMA,IV,100307,Bəstəkarlıq
+BMA,IV,100308,Xalq çalgıları
+BANM,II,080201,Neft-mina mühəndisliyi
+BANM,II,080202,Neft-kimya texnologiyası
+BANM,II,080203,Elektrik-elektronika mühəndisliyi
+BANM,II,080204,Kompüter mühəndisliyi
+BANM,III,040301,Beynəlxalq biznes
+ADA,III,040301,Beynəlxalq münasibətlər
+ADA,III,040302,Kibertəhlükəsizlik
+ADA,III,040303,Kompüter elmləri
+ADA,III,040304,Dövlət idarəçiliyi
+ADA,III,040305,Biznes administrasiyası
+ADHU,I,060106,Hüquqşünaslıq
+ADHU,I,060107,Beynəlxalq hüquq
+ADHU,I,060108,Cinayət hüququ
+ADHU,I,060109,Mülki hüquq
+ADAU,II,090101,Aqronomiya
+ADAU,II,090102,Baytarlıq
+ADAU,II,090103,Torpaqşünaslıq
+ADAU,II,090104,Meşəçilik
+ADAU,II,090105,Kənd təsərrüfatı iqtisadiyyatı
+ADAU,II,090106,Kənd təsərrüfatı mühəndisliyi
+ADAU,II,090107,Hidrotexniki meliorasiya
+ADAU,II,090108,Zootexnika
+SDU,I,050101,Azərbaycan dili müəllimliyi
+SDU,I,050103,İbtidai sinif müəllimliyi
+SDU,I,050104,Tarix müəllimliyi
+SDU,I,060101,Tarix
+SDU,I,060106,Hüquqşünaslıq
+SDU,II,050201,Riyaziyyat müəllimliyi
+SDU,II,050204,Biologiya müəllimliyi
+SDU,II,080101,Kimya texnologiyası
+SDU,II,080102,Materialşünaslıq
+GDU,I,050101,Azərbaycan dili müəllimliyi
+GDU,I,050103,İbtidai sinif müəllimliyi
+GDU,I,050104,Tarix müəllimliyi
+GDU,I,060101,Tarix
+GDU,I,060106,Hüquqşünaslıq
+GDU,I,040101,İqtisadiyyat
+GDU,II,050201,Riyaziyyat müəllimliyi
+GDU,II,050202,Fizika müəllimliyi
+GDU,II,050204,Biologiya müəllimliyi
+GDU,II,080101,Kompüter mühəndisliyi
+NDU,I,050101,Azərbaycan dili müəllimliyi
+NDU,I,050103,İbtidai sinif müəllimliyi
+NDU,I,050104,Tarix müəllimliyi
+NDU,I,060101,Tarix
+NDU,I,060106,Hüquqşünaslıq
+NDU,I,040101,İqtisadiyyat
+NDU,II,050201,Riyaziyyat müəllimliyi
+NDU,II,080101,Kompüter mühəndisliyi
+NDU,II,080102,Maşın mühəndisliyi
+LDU,I,050101,Azərbaycan dili müəllimliyi
+LDU,I,050103,İbtidai sinif müəllimliyi
+LDU,I,060101,Tarix
+LDU,I,060106,Hüquqşünaslıq
+LDU,II,050201,Riyaziyyat müəllimliyi
+LDU,II,090101,Aqronomiya
